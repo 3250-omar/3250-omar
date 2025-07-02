@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3250-omar
-- 23 Years Old
+- 25 Years Old
 - Fresh Graduated From Zagazig University (Engineering College)
-- Iam a Front-End developer Using React Js 
+- Iam a Front-End developer Using React Js & Next js 
 - Recently I Lear More About Css Frameworks Like Tailwind
 - You Can Connect As Following ==> Tel:+201128543192   Email:"om083418@gmail.com"
 
